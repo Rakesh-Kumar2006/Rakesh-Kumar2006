@@ -2,22 +2,6 @@
 
 <h3>BCA Student | Web Development</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/rakesh-kumar-mahto-542154376">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-
-  <a href="https://rakeshk-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel" alt="Portfolio">
-  </a>
-
-  <a href="mailto:mahtorakeshkumar926@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 🎓 I am a **BCA student** passionate about technology, web development, and software engineering.
@@ -38,6 +22,9 @@
   </a>
   <a href="https://rakeshk-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:mahtorakeshkumar926@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
