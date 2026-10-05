@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I am a **BCA student** passionate about technology, web development, and software engineering.
+🎓 I am a **BCA student** passionate about technology, web development.
 
 💻 I enjoy building practical web applications and learning how frontend, backend, databases, and deployment work together.
 
