@@ -8,7 +8,7 @@
 
 💻 I enjoy building practical web applications and learning how frontend, backend, databases, and deployment work together.
 
-🌱 Currently improving my knowledge of **Java, J2EE, backend development, databases, and full-stack web development**.
+🌱 Currently improving my knowledge of **Backend development, databases, and full-stack web development**.
 
 🚀 I enjoy converting ideas into real-world projects and continuously improving my programming and problem-solving skills.
 
